@@ -1,0 +1,13 @@
+DATE,DESCRIPTION,ID,INVESTIGATORIDS,LATITUDE,LOCATION,LONGITUDE,STATUS,TITLE
+6/8/2025,Vol de voiture signalé dans le centre-ville,C79948,INV01,43.929,Albi,2.148,OPEN,Vol de voiture
+6/9/2025,Agression signalée près de la cathédrale,C99237,INV02,43.9295,Albi,2.149,OPEN,Agression
+6/10/2025,Cambriolage d'un commerce local,C26611,INV03,43.931,Albi,2.147,RESOLVED,Cambriolage magasin
+6/11/2025,Incendie suspect dans un entrepôt,C20532,INV01,43.927,Albi,2.15,SUSPENDED,Incendie suspect
+6/12/2025,Disparition signalée dans le quartier Saint-Juéry,C24022,INV02,43.9265,Albi,2.144,OPEN,Disparition
+6/13/2025,Délit de fuite à proximité du pont Vieux,C62232,INV01,43.9292,Albi,2.1495,OPEN,Délit de fuite
+6/14/2025,Tagging illégal sur bâtiment public,C63451,INV03,43.9278,Albi,2.1465,RESOLVED,Tagging
+6/15/2025,Vol à l'arraché signalé sur la place du Vigan,C64909,INV02,43.928,Albi,2.1502,OPEN,Vol à l'arraché
+6/14/2025,vol,C64520,INV01;INV02,48.358,albi,2.632,OPEN,alg
+6/14/2025,Test case – student click,C97162,INV01,43.929,Albi,2.148,OPEN,Short desc
+6/14/2025,Test case – student click,C98110,INV01,43.929,Albi,2.148,OPEN,Short desc
+6/14/2025,Test case – student click,C98690,INV01,43.929,Albi,2.148,OPEN,Short desc

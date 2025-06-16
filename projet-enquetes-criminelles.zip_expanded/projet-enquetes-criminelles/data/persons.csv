@@ -1,0 +1,14 @@
+FIRSTNAME,ID,LASTNAME,NOTES,ROLE
+Jean,INV01,Lefevre,Lead inspector,INVESTIGATOR
+Laura,INV02,Durand,Forensics expert,INVESTIGATOR
+Claire,INV03,Martin,Case analyst,INVESTIGATOR
+Marc,P001,Dupont,Tattoo on arm,SUSPECT
+Anne,C5494,Roux,Saw suspicious van,SUSPECT
+,S24804,hhs,tatto,SUSPECT
+,S95708,has,suspecious van,SUSPECT
+,W4943,has,suspicious,WITNESS
+jn,c13,ed,jkjsbbc,INVESTIGATOR
+js,c14,jeanam,bbbb,SUSPECT
+jn,c15,ahm,suspicious,WITNESS
+hass,c16,hassaan,suspecious,SUSPECT
+ash,c123,john,suspecious,SUSPECT

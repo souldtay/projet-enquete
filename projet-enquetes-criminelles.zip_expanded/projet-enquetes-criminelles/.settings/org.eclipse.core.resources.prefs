@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/controller/AnalysisController.java=UTF-8
+encoding//src/dao/CSVUtil.java=UTF-8
+encoding//src/dao/LinkDAO.java=UTF-8
+encoding//src/dao/PersonDAO.java=UTF-8
+encoding//src/util/LocalDateConverter.java=UTF-8
+encoding//src/util/LocalDateTimeConverter.java=UTF-8
+encoding//src/util/MatcherUtil.java=UTF-8
+encoding//src/view/AddCaseDialog.java=UTF-8
+encoding//src/view/AddPersonDialog.java=UTF-8
+encoding//src/view/GraphPanel.java=UTF-8
+encoding//src/view/MainFrame.java=UTF-8
+encoding//src/view/SuspectManagerDialog.java=UTF-8
+encoding/<project>=windows-1252
